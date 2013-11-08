@@ -1,0 +1,89 @@
+[class*="icon-"] {
+	display: inline-block;
+	width: 48px;
+	height: 48px;
+	background-image: url(sprites.svg);
+	background-repeat: no-repeat;
+}
+.icon-cogs {
+	background-position: 0 0;
+	width: 48px;
+}
+.icon-images {
+	background-position: -64px 0;
+	width: 48px;
+}
+.icon-support {
+	background-position: -128px 0;
+	width: 48px;
+}
+.icon-database {
+	background-position: -192px 0;
+	width: 48px;
+}
+.icon-newspaper {
+	background-position: -256px 0;
+	width: 48px;
+}
+.icon-keyboard {
+	background-position: -320px 0;
+	width: 54px;
+}
+.icon-vcard {
+	background-position: -390px 0;
+	width: 48px;
+}
+.icon-clear-formatting {
+	background-position: -454px 0;
+	width: 48px;
+}
+.icon-address-book {
+	background-position: -518px 0;
+	width: 48px;
+}
+.icon-pencil {
+	background-position: -582px 0;
+	width: 48px;
+}
+.icon-home {
+	background-position: -646px 0;
+	width: 48px;
+}
+.icon-enter {
+	background-position: -710px 0;
+	width: 48px;
+}
+.icon-direction {
+	background-position: -774px 0;
+	width: 48px;
+}
+.icon-signup {
+	background-position: -838px 0;
+	width: 48px;
+}
+.icon-pie {
+	background-position: -902px 0;
+	width: 48px;
+}
+.icon-tools {
+	background-position: -966px 0;
+	width: 60px;
+}
+.icon-new tab {
+	background-position: 0 -64px;
+}
+.icon-profile {
+	background-position: -64px -64px;
+}
+.icon-stats-up {
+	background-position: -128px -64px;
+}
+.icon-certificate {
+	background-position: -192px -64px;
+}
+.icon-settings {
+	background-position: -256px -64px;
+}
+.icon-puzzle {
+	background-position: -320px -64px;
+}
