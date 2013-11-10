@@ -1,0 +1,91 @@
+@font-face {
+	font-family: 'kwd-menu-icons';
+	src:url('fonts/kwd-menu-icons.eot');
+	src:url('fonts/kwd-menu-icons.eot?#iefix') format('embedded-opentype'),
+		url('fonts/kwd-menu-icons.ttf') format('truetype'),
+		url('fonts/kwd-menu-icons.woff') format('woff'),
+		url('fonts/kwd-menu-icons.svg#kwd-menu-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class*="kwd-icon-"][class*="-menu"] {
+	font-family: 'kwd-menu-icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.kwd-icon-management-menu:before {
+	content: "\e145";
+}
+.kwd-icon-portfolio-menu:before {
+	content: "\e01a";
+}
+.kwd-icon-support-menu:before {
+	content: "\e091";
+}
+.kwd-icon-hosting-menu:before {
+	content: "\e0d6";
+}
+.kwd-icon-ui-design-menu:before {
+	content: "\e008";
+}
+.kwd-icon-coding-menu:before {
+	content: "\e0c1";
+}
+.kwd-icon-about-menu:before {
+	content: "\e11a";
+}
+.kwd-icon-styleguide-menu:before {
+	content: "\e307";
+}
+.kwd-icon-contact-menu:before {
+	content: "\e09f";
+}
+.kwd-icon-blog-menu:before {
+	content: "\e00a";
+}
+.kwd-icon-home-menu:before {
+	content: "\e005";
+}
+.kwd-icon-login-menu:before {
+	content: "\e263";
+}
+.kwd-icon-sitemap-menu:before {
+	content: "\e0ae";
+}
+.kwd-icon-terms-menu:before {
+	content: "\e1bc";
+}
+.kwd-icon-cookies-menu:before {
+	content: "\e156";
+}
+.kwd-icon-how-we-work-menu:before {
+	content: "\e14b";
+}
+.kwd-icon-new-tab-menu:before {
+	content: "\e319";
+}
+.kwd-icon-profile-menu:before {
+	content: "\e04d";
+}
+.kwd-icon-analysis-menu:before {
+	content: "\e15f";
+}
+.kwd-icon-content-development-menu:before {
+	content: "\e073";
+}
+.kwd-icon-services-menu:before {
+	content: "\e140";
+}
+.kwd-icon-design-menu:before {
+	content: "\e1a7";
+}
