@@ -9,7 +9,7 @@
 	font-style: normal;
 }
 
-[class*="kwd-icon-"][class*="-menu"] {
+[class*="kwd-icon-"][class*="-menu"]:before {
 	font-family: 'kwd-menu-icons';
 	speak: none;
 	font-style: normal;
@@ -25,67 +25,136 @@
 
 .kwd-icon-management-menu:before {
 	content: "\e145";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-portfolio-menu:before {
 	content: "\e01a";
+	padding-right: 5px;
+	color: #FFFFA5;
 }
 .kwd-icon-support-menu:before {
 	content: "\e091";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-hosting-menu:before {
 	content: "\e0d6";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-ui-design-menu:before {
 	content: "\e008";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-coding-menu:before {
 	content: "\e0c1";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-about-menu:before {
 	content: "\e11a";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-styleguide-menu:before {
 	content: "\e307";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-contact-menu:before {
 	content: "\e09f";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-blog-menu:before {
 	content: "\e00a";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-home-menu:before {
 	content: "\e005";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-login-menu:before {
 	content: "\e263";
+	padding-right: 14px;
+	color: #FFFF00;
+	font-size: calc(1.25rem * 0.9);
+}
+.kwd-icon-login-menu:hover:before,
+.kwd-icon-sitemap-menu:hover:before,
+.kwd-icon-terms-menu:hover:before {
+    color: #800080;
 }
 .kwd-icon-sitemap-menu:before {
 	content: "\e0ae";
+	padding-right: 14px;
+	color: #FFFF00;
+	font-size: calc(1.25rem * 0.9);
 }
 .kwd-icon-terms-menu:before {
 	content: "\e1bc";
+	padding-right: 14px;
+	color: #FFFF00;
+	font-size: calc(1.25rem * 0.9);
 }
 .kwd-icon-cookies-menu:before {
 	content: "\e156";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-how-we-work-menu:before {
 	content: "\e14b";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
-.kwd-icon-new-tab-menu:before {
+.kwd-icon-new-tab-menu:after {
 	content: "\e319";
+	padding-left: 5px;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-profile-menu:before {
 	content: "\e04d";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-analysis-menu:before {
 	content: "\e15f";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-content-development-menu:before {
 	content: "\e073";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-services-menu:before {
 	content: "\e140";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
 .kwd-icon-design-menu:before {
 	content: "\e1a7";
+	padding-right: 5px;
+	color: #FFFFA5;
+	font-size: calc(1.25rem * 0.8);
 }
