@@ -9,6 +9,13 @@
 	font-style: normal;
 }
 
+h2 a[href$="Support/"]:before,
+h2 a[href$="Hosting"]:before,
+h2 a[href$="Design/"]:before,
+h2 a[href$="content-creation"]:before,
+h2 a[href$="content-creation-2"]:before,
+h2 a[href$="content-creation-3"]:before,
+h2 a[href$="working-with-us"]:before,
 [class*="kwd-icon-"][class*="-menu"]:before {
 	font-family: 'kwd-menu-icons';
 	speak: none;
@@ -34,29 +41,29 @@
 	padding-right: 5px;
 	color: #FFFFA5;
 }
+h2 a[href$="Support/"]:before,
 .kwd-icon-support-menu:before {
 	content: "\e091";
 	padding-right: 5px;
-	color: #FFFFA5;
-	font-size: calc(1.25rem * 0.8);
+	font-size: calc(2.1825rem * 0.8);
 }
+h2 a[href$="Hosting"]:before,
 .kwd-icon-hosting-menu:before {
 	content: "\e0d6";
 	padding-right: 5px;
-	color: #FFFFA5;
-	font-size: calc(1.25rem * 0.8);
+	font-size: calc(2.1825rem * 0.8);
 }
+h2 a[href$="content-creation-3"]:before,
 .kwd-icon-ui-design-menu:before {
 	content: "\e008";
 	padding-right: 5px;
-	color: #FFFFA5;
-	font-size: calc(1.25rem * 0.8);
+	font-size: calc(2.1825rem * 0.8);
 }
+h2 a[href$="content-creation-2"]:before,
 .kwd-icon-coding-menu:before {
 	content: "\e0c1";
 	padding-right: 5px;
-	color: #FFFFA5;
-	font-size: calc(1.25rem * 0.8);
+	font-size: calc(2.1825rem * 0.8);
 }
 .kwd-icon-about-menu:before {
 	content: "\e11a";
@@ -117,11 +124,11 @@
 	color: #FFFFA5;
 	font-size: calc(1.25rem * 0.8);
 }
+h2 a[href$="working-with-us"]:before,
 .kwd-icon-how-we-work-menu:before {
 	content: "\e14b";
 	padding-right: 5px;
-	color: #FFFFA5;
-	font-size: calc(1.25rem * 0.8);
+	font-size: calc(2.1825rem * 0.8);
 }
 .kwd-icon-new-tab-menu:after {
 	content: "\e319";
@@ -140,11 +147,11 @@
 	color: #FFFFA5;
 	font-size: calc(1.25rem * 0.8);
 }
+h2 a[href$="content-creation"]:before,
 .kwd-icon-content-development-menu:before {
 	content: "\e073";
 	padding-right: 5px;
-	color: #FFFFA5;
-	font-size: calc(1.25rem * 0.8);
+	font-size: calc(2.1825rem * 0.8);
 }
 .kwd-icon-services-menu:before {
 	content: "\e140";
@@ -152,9 +159,9 @@
 	color: #FFFFA5;
 	font-size: calc(1.25rem * 0.8);
 }
+h2 a[href$="Design/"]:before,
 .kwd-icon-design-menu:before {
 	content: "\e1a7";
 	padding-right: 5px;
-	color: #FFFFA5;
-	font-size: calc(1.25rem * 0.8);
+	font-size: calc(2.1825rem * 0.8);
 }
