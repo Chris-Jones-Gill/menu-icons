@@ -1,32 +1,14 @@
 About This Project
 ==================
 
-This project is for the icons used for menus and articles on the KISS Web Design website.    
-  
-Icon font created using [IcoMoon](http://icomoon.io/ "IcoMoon hompage - opens in a new window") by KISS Web Design.  
+This project is deprecated and no longer maintained.
 
-If you use this and find it useful consider donating using [Gittip](https://www.gittip.com/KISS-Web-Design/ "KISS Web Design's Gittip page")
+Icon font created using [IcoMoon](http://icomoon.io/ "IcoMoon hompage - opens in a new window") by Chris jones-Gill.  
 
-------------    
-  
-Contact info  
-============  
-  
- * Via github:		
-	+ [https://github.com/KISS-Web-Design](https://github.com/KISS-Web-Design "Link to KISS Web Design Github page")  
- * Via website:	
-	+ [http://kisswebdesign.co.uk](http://kisswebdesign.co.uk/contact "Link to the KISS Web Design contact page")  
- * Via Twitter:	
-	+ [@KissWebDesign](https://twitter.com/KissWebDesign "Twitter link for KISS Web Design")  
- * Via Facebook:	
-	+ [http://www.facebook.com/pages/Kiss-Web-Design-Ltd](http://www.facebook.com/KissWebDesign"Link to the KISS Web Design Facebook Page")  
-  
------------- 
-    
 User Information
 ================
 
- * This is a simple personal project - feel free to use it if you want, although you must abide by the license (see below). 
+ * This is a simple personal project - feel free to use it if you want, although you must abide by the license (see below).
  * There is no support for this project, if I change something and it breaks your website that is not my problem - you have been warned!
  * If you do want support I am happy to provide it on paid basis - just contact me to find out more.
   
@@ -59,7 +41,7 @@ COPYRIGHTS
 ==========
 
  * scss, css and html files
-   (c) 2013 KISS Web Design
+   (c) 2013-present Chris Jones-Gill
    
  * Images
    (c) IcoMoon
